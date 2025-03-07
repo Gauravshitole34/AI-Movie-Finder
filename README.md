@@ -22,7 +22,7 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Backend: None (Future plan: Flask or Node.js for API security)
 
-APIs Used: TMDb API, YouTube API, EmailJS
+APIs Used: TMDb API, EmailJS
 
 Hosting: GitHub Pages (or future deployment on Netlify/Vercel)
 

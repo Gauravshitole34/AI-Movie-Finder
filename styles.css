@@ -6,7 +6,7 @@ h1, h2 {
     margin-bottom: 20px;
 }
 .hero-section {
-    background: url("movie_banner1.jpg?quality=82&strip=all&resize=1400,1400");
+    background: url("movie_banner1.jpg");
     padding: 100px 0;
     text-align: center;
     color: white;
@@ -103,6 +103,7 @@ h1, h2 {
         right: 70px;
     }
 }
+
 
 
 

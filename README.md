@@ -3,8 +3,8 @@
 📌 Overview
 
 AI Movie Finder is an advanced and fully responsive movie discovery web application inspired by Netflix's UI design. 
-It allows users to search for movies, view detailed information, watch trailers, save watchlists, and get AI-powered recommendations. 
-The project integrates The Movie Database (TMDb) API, YouTube API, and EmailJS for enhanced functionality.
+It allows users to search for movies, view detailed information. 
+The project integrates The Movie Database (TMDb) API and EmailJS for enhanced functionality.
 
 ✨ Features
 
